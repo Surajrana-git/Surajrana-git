@@ -1,5 +1,23 @@
-# 💫 About Me:
-# 👨‍💻 About Me<br><br>🎓 IIT Patna student | Aspiring Full-Stack Developer  <br><br>🔭 Currently  <br>Building projects to strengthen my full-stack development skills  <br><br>👯 Open to collaborate on  <br>Web development, open source & AI-based beginner projects  <br><br>🤝 Seeking help with  <br>Improving coding skills, system design basics & real-world project experience  <br><br>🌱 Learning  <br>Full-stack development, DSA & AI tools  <br><br>💬 Ask me about  <br>Coding, projects & tech learning  <br><br>⚡ Fun fact  <br>I believe consistency beats talent — I show up every day 🚀
+## 👨‍💻 About Me
+
+- 🎓 IIT Patna student, aspiring Full-Stack Developer  
+- 🔭 Currently building real-world projects to strengthen my development skills  
+- 🤝 Open to collaborations in web development, open source & beginner AI projects  
+- 🌱 Learning Full-stack development, DSA & AI tools  
+- 🎯 Focused on improving problem-solving, system design & practical experience  
+
+---
+
+## 🚀 What I'm Working On
+- Building full-stack projects  
+- Exploring AI tools & integrations  
+- Strengthening DSA fundamentals  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (add your link here)
+- GitHub: https://github.com/Surajrana-git
 
 
 ## 🌐 Socials:
