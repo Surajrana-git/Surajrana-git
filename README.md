@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🎓 IIT Patna student | Aspiring Full-Stack Developer  <br><br>🔭 Currently  <br>Building projects to strengthen my full-stack development skills  <br><br>👯 Open to collaborate on  <br>Web development, open source & AI-based beginner projects  <br><br>🤝 Seeking help with  <br>Improving coding skills, system design basics & real-world project experience  <br><br>🌱 Learning  <br>Full-stack development, DSA & AI tools  <br><br>💬 Ask me about  <br>Coding, projects & tech learning  <br><br>⚡ Fun fact  <br>I believe consistency beats talent — I show up every day 🚀
+# 👨‍💻 About Me<br><br>🎓 IIT Patna student | Aspiring Full-Stack Developer  <br><br>🔭 Currently  <br>Building projects to strengthen my full-stack development skills  <br><br>👯 Open to collaborate on  <br>Web development, open source & AI-based beginner projects  <br><br>🤝 Seeking help with  <br>Improving coding skills, system design basics & real-world project experience  <br><br>🌱 Learning  <br>Full-stack development, DSA & AI tools  <br><br>💬 Ask me about  <br>Coding, projects & tech learning  <br><br>⚡ Fun fact  <br>I believe consistency beats talent — I show up every day 🚀
 
 
 ## 🌐 Socials:
